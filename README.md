@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **FullStack Projects**
  
- 🌱 I’m currently learning **Node.js ,Express.js ,AWS ,GCP**
+ 🌱 I’m currently learning **Node.js ,React.js ,AWS ,GCP**
 
 ⚡ Fun fact **I'm a self-taught coder who learned by watching YouTube tutorials and throwing things at the wall until they stuck**
 
